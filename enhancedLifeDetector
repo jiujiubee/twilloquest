@@ -1,0 +1,4 @@
+var arg1 = process.argv[2];
+
+switch arg1:
+case 0:
